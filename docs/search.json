@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Apples",
+    "section": "",
+    "text": "apple website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "apples/ludacrisp.html",
+    "href": "apples/ludacrisp.html",
+    "title": "ludacrisp",
+    "section": "",
+    "text": "apples are good"
+  },
+  {
+    "objectID": "apples/amarillo.html",
+    "href": "apples/amarillo.html",
+    "title": "Amarillo",
+    "section": "",
+    "text": "[[1]]"
+  }
+]

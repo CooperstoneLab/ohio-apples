@@ -1,7 +1,7 @@
 {
-  "hash": "1dc0eb53661c0cb062c3b82754e18b87",
+  "hash": "18066336655f7ca4ab9f591fd312c17f",
   "result": {
-    "markdown": "---\nwebsite:\n  title: \"Lucy's adventures in science\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - about.qmd\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Apples\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

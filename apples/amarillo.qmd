@@ -1,0 +1,42 @@
+---
+title: "Amarillo"
+---
+
+```{r echo=FALSE, include=FALSE, message=FALSE, warning=FALSE}
+# libraries and data
+library(tidyverse)
+library(readxl)
+
+webdata <- read_excel("C:/Users/lydba/OneDrive - The Ohio State University/Apples/USDA and ODA Project Apples 2023/applewebsitedata.xlsx") %>%
+  rename("Peel Toughness" = Peeltoughness,
+         Sweetness = Sweet,
+         Sourness = Sour)
+
+webdata_long <- webdata %>%
+  pivot_longer(cols = Red:Bitter, 
+               names_to = "Trait",
+               values_to = "Value")
+```
+
+![](img/3-79-crop.png)
+
+```{r echo=FALSE}
+# trait figure
+webdata_long %>%
+  filter(Trait == "Sweetness" | Trait == "Sourness" | Trait == "Crispness" | Trait == "Juiciness", PublicPrivate == "public") %>%
+  filter(AppleName == "3-79") %>%
+  group_by(AppleName) %>%
+  group_split() %>%
+  purrr::map(function(apple_data) {
+    apple_name <- unique(apple_data$PresentationName)
+    ggplot(apple_data, aes(x = Value, y = Trait, fill = Trait)) +
+      geom_bar(stat = "identity") +
+      scale_x_continuous(limits = c(0, 10), breaks = c(0, 5, 10)) +
+      theme_classic(base_size = 30) +
+      theme(legend.position = "none") +
+      theme(plot.title = element_text(hjust=0.5)) +
+      labs(x = "Rating",
+           y = "") +
+      scale_fill_viridis_d()})
+```
+

@@ -3,18 +3,59 @@ project:
   output-dir: docs
 
 website:
-  title: "ohio-apples"
+  title: "Ohio Apples"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - text: Apples
+        menu:
+        - text: Amarillo
+          href: apples/amarillo.qmd
+        - text: Crimson Crisp
+          href: apples/crimsoncrisp.qmd
+        - text: Crunch-a-Bunch
+          href: apples/crunch-a-bunch.qmd
+        - text: Evercrisp
+          href: apples/evercrisp.qmd
+        - text: Gold Rush
+          href: apples/goldrush.qmd
+        - text: Golden Russet
+          href: apples/goldenrusset.qmd
+        - text: Kindercrisp
+          href: apples/kindercrisp.qmd
+        - text: Ludacrisp
+          href: apples/ludacrisp.qmd
+        - text: MDW 20-100
+          href: apples/mdw20-100.qmd
+        - text: Pixie Crunch
+          href: apples/pixiecrunch.qmd
+        - text: Plum Delicious
+          href: apples/plumdelicious.qmd
+        - text: Premier Honeycrisp
+          href: apples/premierhoneycrisp.qmd
+        - text: "48"
+          href: apples/48.qmd
+        - text: Rosalee
+          href: apples/rosalee.qmd
+        - text: Sansa
+          href: apples/sansa.qmd
+        - text: Scruffy
+          href: apples/scruffy.qmd
+        - text: Summerset
+          href: apples/Summerset.qmd
+        - text: Sweet Maia
+          href: apples/sweetmaia.qmd
+        - text: Sweet Zinger
+          href: apples/sweetzinger.qmd
+        - text: Zestar
+          href: apples/zestar.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
 

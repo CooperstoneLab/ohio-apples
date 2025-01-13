@@ -1,17 +1,5 @@
 ---
-website:
-  title: "Lucy's adventures in science"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+title: "Apples"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+apple website

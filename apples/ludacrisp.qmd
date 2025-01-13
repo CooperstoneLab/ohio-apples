@@ -1,0 +1,7 @@
+---
+title: "ludacrisp"
+---
+
+apples are good
+
+![](img/ludacrisp.jpg)

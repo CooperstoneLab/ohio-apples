@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "e7a53c4b"
+  },
+  "apples/ludacrisp.qmd": {
+    "ludacrisp.html": "7d11db99"
+  },
+  "apples/amarillo.qmd": {
+    "amarillo.html": "ebd09887"
   }
 }
