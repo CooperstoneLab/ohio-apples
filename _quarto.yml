@@ -20,7 +20,7 @@ website:
           href: apples/crunch-a-bunch.qmd
         - text: Evercrisp
           href: apples/evercrisp.qmd
-        - text: Gold Rush
+        - text: GoldRush
           href: apples/goldrush.qmd
         - text: Golden Russet
           href: apples/goldenrusset.qmd
@@ -48,14 +48,12 @@ website:
           href: apples/Summerset.qmd
         - text: Sweet Maia
           href: apples/sweetmaia.qmd
-        - text: Sweet Zinger
-          href: apples/sweetzinger.qmd
         - text: Zestar
           href: apples/zestar.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 

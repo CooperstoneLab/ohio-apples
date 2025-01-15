@@ -1,0 +1,22 @@
+---
+title: "Golden Russet"
+format: html
+---
+
+<font size = "7">
+
+A late season apple.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Golden Russet.svg)
+ </div>
+
+<div class="col">
+![](img/goldenrusset-crop.jpg){width=50%}
+
+
+![](img/flavfigs/flavor_plot_Golden Russet.svg)
+
+<i><b>Grassy</b></i> flavor with <i>apple</i> notes and hints of <i>earthiness</i> and <i>honey.</i>

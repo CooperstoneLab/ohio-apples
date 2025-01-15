@@ -1,0 +1,20 @@
+---
+title: "Rosalee"
+format: html
+---
+<font size = "7">
+A mid-season Honeycrisp x Fuji cross from MAIA.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Rosalee.svg)
+ </div>
+
+<div class="col">
+![](img/rosalee-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Rosalee.svg)
+
+<i><b>Apple</b></i> flavor with <i>grassy</i> notes.
+</div>
+</div>

@@ -1,0 +1,22 @@
+---
+title: "Zestar"
+format: html
+---
+<font size = "7">
+A Minnesotan early season apple.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Zestar.svg)
+ </div>
+<center>
+<div class="col">
+![](img/zestar-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Zestar.svg)
+
+<br>
+Pure <i><b>apple</b></i> flavor with <i>grassy, honey</i> notes and hints of <i>earthiness</i> and <i>warm spice.</i>
+</div>
+</div>
+</center>

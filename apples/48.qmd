@@ -1,0 +1,25 @@
+---
+title: "48"
+format: html
+---
+<font size = "7">
+A late-season Eckert Swiss apple.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_48.svg)
+ </div>
+
+<div class="col">
+![](img/r4n8-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_48.svg)
+
+<br>
+MAIA elite apple.
+<br>
+<i><b>Apple, grassy</b></i> flavor.
+</div>
+</div>
+</div>
+</div>

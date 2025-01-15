@@ -1,0 +1,28 @@
+---
+title: "Crimson Crisp"
+---
+::: grid
+::: g-col-5
+
+column 1
+:::
+
+::: g-col-5
+
+
+:::{style="font-size: 90%;"}
+column 2
+:::
+:::
+:::
+
+
+Ready for picking in mid-September to October.
+
+![](img/websitefigs/Apple_Crimson Crisp.svg)
+
+![](img/crimsonc-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Crimson Crisp.svg)      
+
+<i><b>Apple, grassy</b></i> flavor with hints of <i>earthiness and ripe apple.</i>
+

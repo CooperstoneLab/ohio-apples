@@ -1,0 +1,20 @@
+---
+title: "Scruffy"
+format: html
+---
+<font size = "7">
+A stripey, mid-season MAIA apple. 
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Scruffy.svg)
+ </div>
+
+<div class="col">
+![](img/scruff-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Scruffy.svg)
+
+<i><b>Apple</b></i> flavor with <i>grassy</i> notes.
+</div>
+</div>

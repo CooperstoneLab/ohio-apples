@@ -1,0 +1,24 @@
+---
+title: "Evercrisp"
+format: html
+---
+<font size = "7">
+A mid-October to mid-November MAIA cross between Honeycrisp and Fuji.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_evercrisp.svg)
+ </div>
+
+<div class="col">
+![](img/evercrisp-crop.jpg){width=50%}
+</div>
+</div>
+
+![](img/flavfigs/flavor_plot_Evercrisp.svg)
+
+
+<br>
+<i><b>Apple, grassy</b></i> flavor.
+

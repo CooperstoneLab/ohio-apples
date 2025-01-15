@@ -10,5 +10,59 @@
   },
   "apples/amarillo.qmd": {
     "amarillo.html": "ebd09887"
+  },
+  "apples/crunch-a-bunch.qmd": {
+    "crunch-a-bunch.html": "d23d6eec"
+  },
+  "apples/crimsoncrisp.qmd": {
+    "crimsoncrisp.html": "e41b382c"
+  },
+  "apples/48.qmd": {
+    "48.html": "445a1b11"
+  },
+  "apples/evercrisp.qmd": {
+    "evercrisp.html": "04c0a862"
+  },
+  "apples/goldenrusset.qmd": {
+    "goldenrusset.html": "ffe7de26"
+  },
+  "apples/goldrush.qmd": {
+    "goldrush.html": "10200145"
+  },
+  "apples/kindercrisp.qmd": {
+    "kindercrisp.html": "22c2982e"
+  },
+  "apples/mdw20-100.qmd": {
+    "mdw20-100.html": "eff95b4d"
+  },
+  "apples/pixiecrunch.qmd": {
+    "pixiecrunch.html": "bdad7965"
+  },
+  "apples/plumdelicious.qmd": {
+    "plumdelicious.html": "8a689397"
+  },
+  "apples/premierhoneycrisp.qmd": {
+    "premierhoneycrisp.html": "93ddc6f1"
+  },
+  "apples/rosalee.qmd": {
+    "rosalee.html": "64df2104"
+  },
+  "apples/sansa.qmd": {
+    "sansa.html": "b119ad1b"
+  },
+  "apples/scruffy.qmd": {
+    "scruffy.html": "260d03fe"
+  },
+  "apples/summerset.qmd": {
+    "summerset.html": "4a92c3b9"
+  },
+  "apples/sweetmaia.qmd": {
+    "sweetmaia.html": "a9d6c74f"
+  },
+  "apples/zestar.qmd": {
+    "zestar.html": "05d75593"
+  },
+  "docs/apples/Summerset.qmd": {
+    "Summerset.html": "2100e977"
   }
 }

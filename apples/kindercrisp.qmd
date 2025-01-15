@@ -1,0 +1,19 @@
+---
+title: "Kindercrisp"
+format: html
+---
+<font size = "7">
+A Minnesota apple that ripens in late August.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Kindercrisp.svg)
+ </div>
+
+<div class="col">
+![](img/kinder-crop.jpg){width=50%}
+
+![](img/flavfigs/flavor_plot_Kindercrisp.svg)
+
+<i><b>Apple</b></i> flavor with <i>apple</i> notes and hints of <i>honey</i> and <i>earthiness.</i>

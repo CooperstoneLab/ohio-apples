@@ -1,0 +1,21 @@
+---
+title: "Crunch-a-Bunch"
+format: html
+---
+<font size = "7">
+<div class="container">
+<div class="row">
+
+An apple ripe in mid-September. 
+
+<div class="col">
+![](img/websitefigs/Apple_Crunch-a-Bunch.svg)
+ </div>
+
+<div class="col">
+![](img/crunchab-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Crunch-a-Bunch.svg)
+
+<i><b>Apple, grassy</b></i> flavor.
+</div>
+</div>

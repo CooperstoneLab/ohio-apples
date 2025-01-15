@@ -1,0 +1,22 @@
+---
+title: "Sweet Maia"
+format: html
+---
+<font size = "7">
+An early-season MAIA apple with fall qualities.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Sweet Maia.svg)
+ </div>
+
+<div class="col">
+![](img/maia-crop.jpg){width=50%}
+<br>
+![](img/flavfigs/flavor_plot_Sweet Maia.svg)
+
+<br>
+<i> Ripe</i> <i><b>apple</b></i> flavor with <i>honey</i> and <i>earthy</i> notes, with a hint of <i>grassiness.</i>
+</div>
+</div>

@@ -1,0 +1,19 @@
+---
+title: "Plum Delicious"
+format: html
+---
+<font size = "7">
+A late season apple.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Plum Delicious.svg)
+ </div>
+
+<div class="col">
+![](img/plumdelicious-crop.jpg){width=50%}
+
+![](img/flavfigs/flavor_plot_Plum Delicious.svg)
+
+<i><b>Apple</b></i> flavor with <i>earthy, ripe apple</i> notes and hints of <i>honey, grassiness,</i> and <i>fruitiness.</i>

@@ -1,7 +1,20 @@
 ---
-title: "ludacrisp"
+title: "Ludacrisp"
+format: html
 ---
+<font size = "7">
+An MAIA apple harvested in September and October.
+<div class="container">
+<div class="row">
 
-apples are good
+<div class="col">
+![](img/websitefigs/Apple_Ludacrisp.svg)
+ </div>
 
-![](img/ludacrisp.jpg)
+<div class="col">
+![](img/ludacrisp-crop.jpg){width=50%}
+   ![](img/flavfigs/flavor_plot_Ludacrisp.svg)
+
+<i><b>Apple</b></i> flavor with <i>earthy, grassy</i> and <i>ripe apple</i> notes.
+</div>
+</div>

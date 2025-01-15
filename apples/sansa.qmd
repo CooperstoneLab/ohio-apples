@@ -1,0 +1,20 @@
+---
+title: "Sansa"
+format: html
+---
+<font size = "7">
+An early season apple.
+<div class="container">
+<div class="row">
+
+<div class="col">
+![](img/websitefigs/Apple_Sansa.svg)
+ </div>
+
+<div class="col">
+![](img/sansa-crop.jpg){width=50%}
+![](img/flavfigs/flavor_plot_Sansa.svg)
+
+<i><b>Ripe apple</b></i> flavor with <i>honey, grassy</i> notes and hints of <i>earthiness</i> and <i>fruitiness.</i>
+</div>
+</div>
