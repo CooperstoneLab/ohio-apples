@@ -21,35 +21,32 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 1.94; stroke: #FFFFFF; fill: #FFFFFF;' />
+<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzguNDZ8Mzc2LjI4fDQyLjE2fDQ0Ni43Mw=='>
-    <rect x='38.46' y='42.16' width='337.82' height='404.57' />
+  <clipPath id='cpMTM5LjY4fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
+    <rect x='139.68' y='102.13' width='349.38' height='283.58' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzguNDZ8Mzc2LjI4fDQyLjE2fDQ0Ni43Mw==)'>
-<rect x='38.46' y='42.16' width='337.82' height='404.57' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='53.81' y='244.45' width='276.40' height='151.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<rect x='53.81' y='244.45' width='245.69' height='151.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<rect x='53.81' y='92.73' width='153.55' height='151.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFBF;' />
+<g clip-path='url(#cpMTM5LjY4fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
+<rect x='139.68' y='102.13' width='349.38' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
+<rect x='155.56' y='250.36' width='285.86' height='116.01' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<rect x='155.56' y='250.36' width='254.10' height='116.01' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<rect x='155.56' y='121.46' width='158.81' height='116.01' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFBF;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='38.46,446.73 38.46,42.16 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<polyline points='38.46,446.73 376.28,446.73 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<text x='53.81' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='8.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='130.59' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='207.37' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='284.15' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='360.92' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='207.37' y='489.83' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='388.76px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters Who Identified Flavor</text>
-<rect x='396.20' y='202.96' width='97.83' height='82.98' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='406.17' y='241.41' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='406.87' y='242.12' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<rect x='406.17' y='258.69' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='406.87' y='259.40' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFBF;' />
-<text x='433.41' y='255.78' style='font-size: 16.00px; font-family: "Arial";' textLength='40.92px' lengthAdjust='spacingAndGlyphs'>Apple</text>
-<text x='433.41' y='273.06' style='font-size: 16.00px; font-family: "Arial";' textLength='50.67px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
-<text x='207.37' y='27.14' text-anchor='middle' style='font-size: 24.00px; font-family: "Arial";' textLength='225.41px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of Gala</text>
+<polyline points='139.68,385.71 139.68,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='126.23' y='316.96' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='61.38px' lengthAdjust='spacingAndGlyphs'>Apple</text>
+<text x='126.23' y='188.06' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='76.02px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
+<polyline points='139.68,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='155.56' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='234.96' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='314.37' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='393.77' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='473.18' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='314.37' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='314.37' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='314.37' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='252.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
+<text x='314.37' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='76.05px' lengthAdjust='spacingAndGlyphs'>Gala</text>
 </g>
 </svg>

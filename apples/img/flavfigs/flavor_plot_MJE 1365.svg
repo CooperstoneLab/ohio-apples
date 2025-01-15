@@ -21,44 +21,37 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.000000000000064' y='0.00' width='504.00' height='504.00' style='stroke-width: 1.94; stroke: #FFFFFF; fill: #FFFFFF;' />
+<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzguNDZ8MzQzLjA5fDQyLjE2fDQ0Ni43Mw=='>
-    <rect x='38.46' y='42.16' width='304.63' height='404.57' />
+  <clipPath id='cpMTg5LjQ0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
+    <rect x='189.44' y='102.13' width='299.61' height='283.58' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzguNDZ8MzQzLjA5fDQyLjE2fDQ0Ni43Mw==)'>
-<rect x='38.46' y='42.16' width='304.63' height='404.57' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='52.30' y='244.45' width='221.55' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDAE61;' />
-<rect x='52.30' y='320.30' width='166.16' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D7191C;' />
-<rect x='52.30' y='320.30' width='138.47' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D7191C;' />
-<rect x='52.30' y='244.45' width='138.47' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDAE61;' />
-<rect x='52.30' y='168.59' width='110.77' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #ABDDA4;' />
-<rect x='52.30' y='92.73' width='110.77' height='75.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B83BA;' />
+<g clip-path='url(#cpMTg5LjQ0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
+<rect x='189.44' y='102.13' width='299.61' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
+<rect x='203.06' y='247.29' width='217.90' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDAE61;' />
+<rect x='203.06' y='314.81' width='163.43' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D7191C;' />
+<rect x='203.06' y='314.81' width='136.19' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D7191C;' />
+<rect x='203.06' y='247.29' width='136.19' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDAE61;' />
+<rect x='203.06' y='179.77' width='108.95' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #ABDDA4;' />
+<rect x='203.06' y='112.25' width='108.95' height='60.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B83BA;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='38.46,446.73 38.46,42.16 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<polyline points='38.46,446.73 343.09,446.73 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<text x='52.30' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='8.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='121.54' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='190.77' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='260.01' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='329.24' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='190.77' y='489.83' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='388.76px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters Who Identified Flavor</text>
-<rect x='363.01' y='185.68' width='131.03' height='117.54' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='372.97' y='224.13' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='373.68' y='224.84' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D7191C;' />
-<rect x='372.97' y='241.41' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='373.68' y='242.12' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDAE61;' />
-<rect x='372.97' y='258.69' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='373.68' y='259.40' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #ABDDA4;' />
-<rect x='372.97' y='275.97' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='373.68' y='276.68' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2B83BA;' />
-<text x='400.22' y='238.50' style='font-size: 16.00px; font-family: "Arial";' textLength='40.02px' lengthAdjust='spacingAndGlyphs'>Anise</text>
-<text x='400.22' y='255.78' style='font-size: 16.00px; font-family: "Arial";' textLength='40.92px' lengthAdjust='spacingAndGlyphs'>Apple</text>
-<text x='400.22' y='273.06' style='font-size: 16.00px; font-family: "Arial";' textLength='50.67px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
-<text x='400.22' y='290.34' style='font-size: 16.00px; font-family: "Arial";' textLength='83.86px' lengthAdjust='spacingAndGlyphs'>Warm spice</text>
-<text x='190.77' y='27.14' text-anchor='middle' style='font-size: 24.00px; font-family: "Arial";' textLength='282.77px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of MJE 1365</text>
+<polyline points='189.44,385.71 189.44,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='175.99' y='353.79' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='60.03px' lengthAdjust='spacingAndGlyphs'>Anise</text>
+<text x='175.99' y='286.27' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='61.38px' lengthAdjust='spacingAndGlyphs'>Apple</text>
+<text x='175.99' y='218.75' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='76.02px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
+<text x='175.99' y='151.23' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='125.78px' lengthAdjust='spacingAndGlyphs'>Warm spice</text>
+<polyline points='189.44,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='203.06' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='271.15' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='339.25' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='407.34' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='475.44' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='339.25' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='339.25' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='339.25' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='252.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
+<text x='339.25' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='162.09px' lengthAdjust='spacingAndGlyphs'>MJE 1365</text>
 </g>
 </svg>

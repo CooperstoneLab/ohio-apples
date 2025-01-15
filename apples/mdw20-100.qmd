@@ -1,20 +1,39 @@
 ---
 title: "MDW 20-100"
 format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
 
-<font size = "7">
-A mid-season apple.
-<div class="container">
-<div class="row">
+:::{style="font-size: x-large;"}
+A mid-season apple
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/mdw20100-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Apple</b></i> flavor with <i>floral, grassy,</i> and <i>honey</i> notes.</center><br>
+:::
+
+![](img/MDW20100-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_MDW 20-100.svg)
- </div>
 
-<div class="col">
-![](img/mdw20100-crop.jpg){width=50%}
+<br><br><br>
 
 ![](img/flavfigs/flavor_plot_MDW 20-100.svg)
 
-<i><b>Apple</b></i> flavor with <i>floral, grassy,</i> and <i>honey</i> notes.
+:::
+:::

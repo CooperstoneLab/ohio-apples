@@ -1,20 +1,38 @@
 ---
 title: "GoldRush"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 A Purdue University apple that ripens in late October.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/crunchab-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b><i><b>Grassy</b></i> flavor with <i>apple</i> notes.</center><br>
+:::
+
+![](img/goldrush-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Gold Rush.svg)
- </div>
 
-<div class="col">
-![](img/goldrush-crop.jpg){width=50%}
+<br><br><br>
 
 ![](img/flavfigs/flavor_plot_Gold Rush.svg)
 
-<i><b>Grassy</b></i> flavor with <i>apple</i> notes.
-
+:::
+:::

@@ -21,30 +21,29 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 1.94; stroke: #FFFFFF; fill: #FFFFFF;' />
+<rect x='0.000000000000064' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzguNDZ8Mzg2LjAyfDQyLjE2fDQ0Ni43Mw=='>
-    <rect x='38.46' y='42.16' width='347.56' height='404.57' />
+  <clipPath id='cpMTI1LjA0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
+    <rect x='125.04' y='102.13' width='364.02' height='283.58' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzguNDZ8Mzg2LjAyfDQyLjE2fDQ0Ni43Mw==)'>
-<rect x='38.46' y='42.16' width='347.56' height='404.57' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='54.26' y='92.73' width='315.96' height='303.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<g clip-path='url(#cpMTI1LjA0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
+<rect x='125.04' y='102.13' width='364.02' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
+<rect x='141.58' y='137.57' width='330.93' height='212.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='38.46,446.73 38.46,42.16 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<polyline points='38.46,446.73 386.02,446.73 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<text x='54.26' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='8.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='133.25' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='212.24' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='291.23' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='370.22' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='212.24' y='489.83' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='388.76px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters Who Identified Flavor</text>
-<rect x='405.94' y='211.60' width='88.09' height='65.70' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='415.91' y='250.05' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='416.62' y='250.76' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<text x='443.15' y='264.42' style='font-size: 16.00px; font-family: "Arial";' textLength='40.92px' lengthAdjust='spacingAndGlyphs'>Apple</text>
-<text x='212.24' y='27.14' text-anchor='middle' style='font-size: 24.00px; font-family: "Arial";' textLength='257.43px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of DO 905</text>
+<polyline points='125.04,385.71 125.04,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='111.59' y='252.51' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='61.38px' lengthAdjust='spacingAndGlyphs'>Apple</text>
+<polyline points='125.04,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='141.58' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='224.32' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='307.05' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='389.78' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='472.51' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='307.05' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='307.05' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='307.05' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='316.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of DO</text>
+<text x='307.05' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='60.07px' lengthAdjust='spacingAndGlyphs'>905</text>
 </g>
 </svg>

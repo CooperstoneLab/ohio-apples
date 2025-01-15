@@ -1,19 +1,38 @@
 ---
 title: "Kindercrisp"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 A Minnesota apple that ripens in late August.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/kinder-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Apple</b></i> flavor with <i>apple</i> notes and hints of <i>honey</i> and <i>earthiness.</i></center><br>
+:::
+
+![](img/kinder-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Kindercrisp.svg)
- </div>
 
-<div class="col">
-![](img/kinder-crop.jpg){width=50%}
+<br><br><br>
 
 ![](img/flavfigs/flavor_plot_Kindercrisp.svg)
 
-<i><b>Apple</b></i> flavor with <i>apple</i> notes and hints of <i>honey</i> and <i>earthiness.</i>
+:::
+:::

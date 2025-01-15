@@ -1,28 +1,39 @@
 ---
 title: "Crimson Crisp"
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
+
+:::{style="font-size: x-large;"}
+Ready for picking in mid-September to October.
+:::
+
 ::: grid
 ::: g-col-5
 
-column 1
+![](img/transparentapples/crimsonc-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Apple, grassy</b></i> flavor with hints of <i>earthiness and ripe apple.</i></center><br>
+:::
+
+![](img/crimsonc-crop.jpg)
+<center>Relative size</center>
+
 :::
 
 ::: g-col-5
 
-
-:::{style="font-size: 90%;"}
-column 2
-:::
-:::
-:::
-
-
-Ready for picking in mid-September to October.
-
 ![](img/websitefigs/Apple_Crimson Crisp.svg)
 
-![](img/crimsonc-crop.jpg){width=50%}
-![](img/flavfigs/flavor_plot_Crimson Crisp.svg)      
+<br><br><br>
 
-<i><b>Apple, grassy</b></i> flavor with hints of <i>earthiness and ripe apple.</i>
+![](img/flavfigs/flavor_plot_Crimson Crisp.svg)
+
+:::
+:::
 

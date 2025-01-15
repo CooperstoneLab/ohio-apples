@@ -1,26 +1,41 @@
 ---
 title: "Amarillo"
 format:
-  html
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<div class="container">
-<div class="row">
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 A mid season apple.
-<div class="col"><center>
+:::
+
+::: grid
+::: g-col-5
+
+![](img/transparentapples/3-79-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Grassy, apple</b></i> flavor.</center><br>
+:::
+
+![](img/3-79-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Amarillo.svg)
- </div>
 
-<div class="col">
-![](img/3-79-crop.jpg){width=50%}
-     ![](img/flavfigs/flavor_plot_Amarillo.svg)
+<br><br><br>
 
-<br>
+![](img/flavfigs/flavor_plot_Amarillo.svg)
 
-<br>
-<i><b>Grassy, apple</b></i> flavor.
-</div>
-</div> 
-</div>
-</div>
+:::
+:::
+
+
   

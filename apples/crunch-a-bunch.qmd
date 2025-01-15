@@ -1,21 +1,38 @@
 ---
 title: "Crunch-a-Bunch"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
-<div class="container">
-<div class="row">
 
-An apple ripe in mid-September. 
+:::{style="font-size: x-large;"}
+An apple ripe in mid-September.
+:::
 
-<div class="col">
-![](img/websitefigs/Apple_Crunch-a-Bunch.svg)
- </div>
+::: grid
+::: g-col-5
 
-<div class="col">
-![](img/crunchab-crop.jpg){width=50%}
-![](img/flavfigs/flavor_plot_Crunch-a-Bunch.svg)
+![](img/transparentapples/crunchab-crop.png)
 
-<i><b>Apple, grassy</b></i> flavor.
-</div>
-</div>
+:::{style="font-size: x-large;"}
+<center><i><b>Apple, grassy</b></i> flavor.</center><br>
+:::
+
+![](img/crunchab-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
+![](img/websitefigs/Apple_Crunch-a-bunch.svg)
+
+<br><br><br>
+
+![](img/flavfigs/flavor_plot_Crunch-a-bunch.svg)
+
+:::
+:::

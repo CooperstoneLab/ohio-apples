@@ -1,20 +1,38 @@
 ---
 title: "Ludacrisp"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 An MAIA apple harvested in September and October.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/Ludacrisp-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b><i><b>Apple</b></i> flavor with <i>earthy, grassy</i> and <i>ripe apple</i> notes.</center><br>
+:::
+
+![](img/Ludacrisp-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Ludacrisp.svg)
- </div>
 
-<div class="col">
-![](img/ludacrisp-crop.jpg){width=50%}
-   ![](img/flavfigs/flavor_plot_Ludacrisp.svg)
+<br><br><br>
 
-<i><b>Apple</b></i> flavor with <i>earthy, grassy</i> and <i>ripe apple</i> notes.
-</div>
-</div>
+![](img/flavfigs/flavor_plot_Ludacrisp.svg)
+
+:::
+:::

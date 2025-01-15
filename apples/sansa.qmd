@@ -1,20 +1,38 @@
 ---
 title: "Sansa"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 An early season apple.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
-![](img/websitefigs/Apple_Sansa.svg)
- </div>
+::: grid
+::: g-col-5
 
-<div class="col">
-![](img/sansa-crop.jpg){width=50%}
-![](img/flavfigs/flavor_plot_Sansa.svg)
+![](img/transparentapples/sansa-crop.png)
 
-<i><b>Ripe apple</b></i> flavor with <i>honey, grassy</i> notes and hints of <i>earthiness</i> and <i>fruitiness.</i>
-</div>
-</div>
+:::{style="font-size: x-large;"}
+<center><i><b>Ripe apple</b></i> flavor with <i>honey, grassy</i> notes and hints of <i>earthiness</i> and <i>fruitiness.</i></center><br>
+:::
+
+![](img/sansa-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
+![](img/websitefigs/Apple_sansa.svg)
+
+<br><br><br>
+
+![](img/flavfigs/flavor_plot_sansa.svg)
+
+:::
+:::

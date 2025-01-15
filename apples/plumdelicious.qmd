@@ -1,19 +1,38 @@
 ---
 title: "Plum Delicious"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 A late season apple.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/plumdelicious-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Apple</b></i> flavor with <i>earthy, ripe apple</i> notes and hints of <i>honey, grassiness,</i> and <i>fruitiness.</i></center><br>
+:::
+
+![](img/plumdelicious-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Plum Delicious.svg)
- </div>
 
-<div class="col">
-![](img/plumdelicious-crop.jpg){width=50%}
+<br><br><br>
 
 ![](img/flavfigs/flavor_plot_Plum Delicious.svg)
 
-<i><b>Apple</b></i> flavor with <i>earthy, ripe apple</i> notes and hints of <i>honey, grassiness,</i> and <i>fruitiness.</i>
+:::
+:::

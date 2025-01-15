@@ -1,22 +1,38 @@
 ---
 title: "Sweet Maia"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 An early-season MAIA apple with fall qualities.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/maia-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i> Ripe</i> <i><b>apple</b></i> flavor with <i>honey</i> and <i>earthy</i> notes, with a hint of <i>grassiness.</i></center><br>
+:::
+
+![](img/maia-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Sweet Maia.svg)
- </div>
 
-<div class="col">
-![](img/maia-crop.jpg){width=50%}
-<br>
+<br><br><br>
+
 ![](img/flavfigs/flavor_plot_Sweet Maia.svg)
 
-<br>
-<i> Ripe</i> <i><b>apple</b></i> flavor with <i>honey</i> and <i>earthy</i> notes, with a hint of <i>grassiness.</i>
-</div>
-</div>
+:::
+:::

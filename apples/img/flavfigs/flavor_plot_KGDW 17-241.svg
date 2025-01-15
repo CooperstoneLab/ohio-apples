@@ -21,30 +21,29 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 1.94; stroke: #FFFFFF; fill: #FFFFFF;' />
+<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzguNDZ8Mzk0LjAzfDQyLjE2fDQ0Ni43Mw=='>
-    <rect x='38.46' y='42.16' width='355.57' height='404.57' />
+  <clipPath id='cpMTEzLjAxfDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
+    <rect x='113.01' y='102.13' width='376.04' height='283.58' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzguNDZ8Mzk0LjAzfDQyLjE2fDQ0Ni43Mw==)'>
-<rect x='38.46' y='42.16' width='355.57' height='404.57' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='54.62' y='92.73' width='129.30' height='303.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<g clip-path='url(#cpMTEzLjAxfDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
+<rect x='113.01' y='102.13' width='376.04' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
+<rect x='130.11' y='137.57' width='136.74' height='212.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='38.46,446.73 38.46,42.16 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<polyline points='38.46,446.73 394.03,446.73 ' style='stroke-width: 1.94; stroke-linecap: butt;' />
-<text x='54.62' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='8.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='135.43' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='216.25' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='297.06' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='17.80px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='377.87' y='467.15' text-anchor='middle' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='216.25' y='489.83' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='388.76px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters Who Identified Flavor</text>
-<rect x='413.96' y='211.60' width='80.08' height='65.70' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='423.92' y='250.05' width='17.28' height='17.28' style='stroke-width: 1.94; stroke: none; fill: #FFFFFF;' />
-<rect x='424.63' y='250.76' width='15.86' height='15.86' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<text x='451.16' y='264.42' style='font-size: 16.00px; font-family: "Arial";' textLength='32.91px' lengthAdjust='spacingAndGlyphs'>Ripe</text>
-<text x='216.25' y='27.14' text-anchor='middle' style='font-size: 24.00px; font-family: "Arial";' textLength='330.78px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of KGDW 17-241</text>
+<polyline points='113.01,385.71 113.01,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='99.56' y='252.51' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='49.36px' lengthAdjust='spacingAndGlyphs'>Ripe</text>
+<polyline points='113.01,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
+<text x='130.11' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='215.57' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='301.03' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='386.50' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='471.96' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='301.03' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='301.03' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='301.03' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='252.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
+<text x='301.03' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='234.09px' lengthAdjust='spacingAndGlyphs'>KGDW 17-241</text>
 </g>
 </svg>

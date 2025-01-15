@@ -1,22 +1,38 @@
 ---
 title: "Golden Russet"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
 
-<font size = "7">
-
+:::{style="font-size: x-large;"}
 A late season apple.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/goldenrusset-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Grassy</b></i> flavor with <i>apple</i> notes and hints of <i>earthiness</i> and <i>honey.</i></center><br>
+:::
+
+![](img/goldenrusset-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Golden Russet.svg)
- </div>
 
-<div class="col">
-![](img/goldenrusset-crop.jpg){width=50%}
-
+<br><br><br>
 
 ![](img/flavfigs/flavor_plot_Golden Russet.svg)
 
-<i><b>Grassy</b></i> flavor with <i>apple</i> notes and hints of <i>earthiness</i> and <i>honey.</i>
+:::
+:::

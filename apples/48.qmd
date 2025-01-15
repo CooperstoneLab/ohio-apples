@@ -1,25 +1,39 @@
 ---
 title: "48"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<font size = "7">
+
+:::{style="font-size: x-large;"}
 A late-season Eckert Swiss apple.
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
+::: grid
+::: g-col-5
+
+![](img/transparentapples/r4n8-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Apple, grassy</b></i> flavor.</center><br>
+:::
+
+![](img/r4n8-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_48.svg)
- </div>
 
-<div class="col">
-![](img/r4n8-crop.jpg){width=50%}
+<br><br><br>
+
 ![](img/flavfigs/flavor_plot_48.svg)
 
-<br>
-MAIA elite apple.
-<br>
-<i><b>Apple, grassy</b></i> flavor.
-</div>
-</div>
-</div>
-</div>
+:::
+:::
+
