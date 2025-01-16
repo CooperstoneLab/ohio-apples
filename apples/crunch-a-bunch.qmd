@@ -32,7 +32,7 @@ An apple ripe in mid-September.
 
 <br><br><br>
 
-![](img/flavfigs/flavor_plot_Crunch-a-bunch.svg)
+![](img/flavfigs/flavor_plot_Crunch-a-Bunch.svg)
 
 :::
 :::

@@ -9,19 +9,19 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A Purdue University apple that ripens in late October.
+text
 :::
 
 ::: grid
 ::: g-col-5
 
-![](img/transparentapples/crunchab-crop.png)
+![](img/transparentapples/GOLDRUSH-crop.png)
 
 :::{style="font-size: x-large;"}
-<center><i><b><i><b>Grassy</b></i> flavor with <i>apple</i> notes.</center><br>
+<center><i><b>Grassy, apple</b></i> flavor.</center><br>
 :::
 
-![](img/goldrush-crop.jpg)
+![](img/GOLDRUSH-crop.jpg)
 <center>Relative size</center>
 
 :::
@@ -36,3 +36,9 @@ A Purdue University apple that ripens in late October.
 
 :::
 :::
+
+
+  
+
+
+  

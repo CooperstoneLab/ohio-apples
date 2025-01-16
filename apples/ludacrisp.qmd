@@ -15,13 +15,13 @@ An MAIA apple harvested in September and October.
 ::: grid
 ::: g-col-5
 
-![](img/transparentapples/Ludacrisp-crop.png)
+![](img/transparentapples/LUDACRISP-crop.png)
 
 :::{style="font-size: x-large;"}
 <center><i><b><i><b>Apple</b></i> flavor with <i>earthy, grassy</i> and <i>ripe apple</i> notes.</center><br>
 :::
 
-![](img/Ludacrisp-crop.jpg)
+![](img/LUDACRISP-crop.jpg)
 <center>Relative size</center>
 
 :::
@@ -33,6 +33,8 @@ An MAIA apple harvested in September and October.
 <br><br><br>
 
 ![](img/flavfigs/flavor_plot_Ludacrisp.svg)
+
+
 
 :::
 :::
