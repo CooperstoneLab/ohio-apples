@@ -1,6 +1,5 @@
 ---
 title: "MDW 20-100"
-format: html
 format:
   html: 
     grid:

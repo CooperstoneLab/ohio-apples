@@ -1,27 +1,38 @@
 ---
 title: "Summerset"
-format: html
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
 ---
-<br><font size="7">
+
+:::{style="font-size: x-large;"}
 An MAIA apple ready for picking early September.
-<br>
-</font>
-<div class="container">
-<div class="row">
+:::
 
-<div class="col">
-<center>
+::: grid
+::: g-col-5
+
+![](img/transparentapples/summer-crop.png)
+
+:::{style="font-size: x-large;"}
+<center><i><b>Honey, apple</b></i> flavor with <i>grassy</i> notes and hints of <i>earthiness, ripe apple,</i> and <i>caramel.</i></center><br>
+:::
+
+![](img/summer-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-5
+
 ![](img/websitefigs/Apple_Summerset.svg)
- </div>
 
-<div class="col"><center>
-![](img/summer-crop.jpg){width=50%}
+<br><br><br>
+
 ![](img/flavfigs/flavor_plot_Summerset.svg)
 
-<br><font size="7">
-<i><b>Honey, apple</b></i> flavor with <i>grassy</i> notes and hints of <i>earthiness, ripe apple,</i> and <i>caramel.</i>
-</div>
-</div>
-</font>
-</center>
-</center>
+:::
+:::
