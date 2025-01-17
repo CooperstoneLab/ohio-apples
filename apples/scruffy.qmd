@@ -9,30 +9,33 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A stripey, mid-season MAIA apple. 
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/scruff-crop.png)
+![](img/transparentapples/SCRUFF-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>grassy</i> notes.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An medium-high in crispness and juiciness, with medium sweetness and sourness. Consumers on average like this apple, especially the texture, but less-so the appearance.</center>
 :::
 
-![](img/scruff-crop.jpg)
+<br>
+![](img/SCRUFF-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Scruffy.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Scruffy.svg)
+<br>
 
+![](img/likingfigs/Liking_Scruffy.svg)
 :::
 :::
