@@ -41,8 +41,8 @@ Sensory evaluation uses humans as instruments to analyze the sensory properties 
 For more information about the food sensory testing, please select 'Descriptive Analysis' or 'Consumer Testing' in the drop-down menu under 'About.'
 
 <b>Research team</b><br>
-Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo-Ramirez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.
+Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo Ramírez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.
 
-This project is sponsored by the Ohio Department of Agriculture (ODA) and the United States Department of Agriculture (USDA) and supported by the Midwest Apple Foundation (MAF). 
+This project was sponsored by the Ohio Department of Agriculture (ODA, award AM22SCBPOH1157) Specialty Block Grant and the United States Department of Agriculture (USDA, award 2023-67013-40267) and supported by the Midwest Apple Foundation (MAF). We thank the many Ohio and midwestern apple growers who have provided apples for our studies.
 </div>
 </body>
