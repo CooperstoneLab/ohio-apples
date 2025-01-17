@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Ohio Apples"
+  favicon: "img/apple-icon.png"
   navbar:
+    logo: "img/apple-icon.png"
     left:
       - href: index.qmd
         text: Home
@@ -58,6 +60,14 @@ website:
           href: apples/sweetmaia.qmd
         - text: Zestar
           href: apples/zestar.qmd
+
+  # footer
+  page-footer:
+    border: true
+    left: "Created with RStudio and [Quarto](https://quarto.org/) <br> © Lydia Balogh, Diane Miller, and Jessica Cooperstone, 2025, License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) <br> [Want to make a website like this one?](https://osu-codeclub.github.io/#category=website)"
+    right:
+      - icon: github
+        href: https://github.com/CooperstoneLab/ohio-apples
 
 format:
   html:
