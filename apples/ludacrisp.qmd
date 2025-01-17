@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A cross of GoldRush x Sweet 16.  Ripens mid-October. Full of flavors. Released by the Midwest Apple Improvement Association.
+A cross of GoldRush x Sweet 16. Ripens mid-October. Full of flavors. Released by the Midwest Apple Improvement Association.
 :::
 
 ::: grid
