@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Discover Ohio’s Hidden Apple Gems",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "The goal of this website is to share data collected at The Ohio State University on the traits of Ohio apples valuable to local growers.\nWhether you’re an apple grower seeking to diversify your orchard or a curious eater eager to explore new flavors, this resource highlights Ohio’s unique apple offerings.\nSelect ‘About’ at the top to learn more, or ‘Apples’ to choose an apple to learn more about."
+    "text": "Purpose This website is for sharing the findings of extensive food sensory testing conducted on 30+ apple selections. Our goal is to provide information on the taste, flavor, and texture attributes of these apples, focusing on varieties that hold particular relevance for Ohio growers and consumers. Unlike the more familiar apples commonly found in grocery stores, these selections include unique and lesser-known varieties. We aim to educate and inspire both growers and consumers, showcasing the diverse and flavorful apple options well-suited to growth Ohio.\nWhat is food sensory evaluation? Sensory evaluation uses humans as instruments to analyze the sensory properties of foods, drinks, and other consumer products. Using these techniques, we were able to evaluate the taste, aroma, flavor, and texture of the apples in this project. We were also able to gain insights into what aspects of these apples consumers like.\nFor more information about the food sensory testing, please select ‘Descriptive Analysis’ or ‘Consumer Testing’ in the drop-down menu under ‘About.’\nResearch team Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo-Ramirez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.\nThis project is sponsored by the Ohio Department of Agriculture (ODA) and the United States Department of Agriculture (USDA) and supported by the Midwest Apple Foundation (MAF)."
   },
   {
     "objectID": "apples/sweetmaia.html",
@@ -14,13 +14,6 @@
     "text": "An early-season MAIA apple with fall qualities.\n\n\n\n\n\n\n Ripe apple flavor with honey and earthy notes, with a hint of grassiness.\n\n\n\n\n\nRelative size"
   },
   {
-    "objectID": "apples/scruffy.html",
-    "href": "apples/scruffy.html",
-    "title": "Scruffy",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn medium-high in crispness and juiciness, with medium sweetness and sourness. Consumers on average like this apple, especially the texture, but less-so the appearance.\n\n\n \n\nRelative size"
-  },
-  {
     "objectID": "apples/rosalee.html",
     "href": "apples/rosalee.html",
     "title": "Rosalee",
@@ -28,32 +21,32 @@
     "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in juiciness and crispness, with medium-high sweetness, and medium sourness, with apple, grassy flavor. Consumers on average like this apple, especially the texture.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/plumdelicious.html",
-    "href": "apples/plumdelicious.html",
-    "title": "Plum Delicious",
+    "objectID": "apples/pixiecrunch.html",
+    "href": "apples/pixiecrunch.html",
+    "title": "Pixie Crunch",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn medium-high in crispness and sweetness, medium in juiciness and sourness, with ripe apple, earthy, honey, grassy, fruity flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, and earthy flavor. Consumers on average like this apple, especially the texture.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/mdw20-100.html",
-    "href": "apples/mdw20-100.html",
-    "title": "MDW 20-100",
+    "objectID": "apples/crunch-a-bunch.html",
+    "href": "apples/crunch-a-bunch.html",
+    "title": "Crunch-a-Bunch",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in sweetness, juiciness, and crispness, and low in sourness, with ripe apple, honey, grassy, and floral flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness and juiciness, with medium sourness and sweetness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/kindercrisp.html",
-    "href": "apples/kindercrisp.html",
-    "title": "Kindercrisp",
+    "objectID": "apples/sansa.html",
+    "href": "apples/sansa.html",
+    "title": "Sansa",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in crispness, juiciness, and sweetness, with low sourness, with ripe apple, grassy, honey, and earthy flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in sweetness, with medium juiciness, and low crispness and sourness, with ripe apple, honey, grassy, fruity, earthy flavor. Consumers on average like this apple a medium amount, and especially like the appearance.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/goldenrusset.html",
-    "href": "apples/goldenrusset.html",
-    "title": "Golden Russet",
+    "objectID": "apples/premierhoneycrisp.html",
+    "href": "apples/premierhoneycrisp.html",
+    "title": "Premier Honeycrisp",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness, with medium sweetness, sourness, and juiciness, with grassy, apple, earthy, and honey flavor. Consumers on average like this apple a medium amount, but like the appearance less.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness and juiciness, medium sweetness and sourness, with apple, grassy, honey, earthy flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
   },
   {
     "objectID": "apples/evercrisp.html",
@@ -63,18 +56,25 @@
     "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness and juiciness, with medium sweetness and low sourness, with apple, flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/crimsoncrisp.html",
-    "href": "apples/crimsoncrisp.html",
-    "title": "Crimson Crisp",
+    "objectID": "apples/gala.html",
+    "href": "apples/gala.html",
+    "title": "Gala",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, earthy flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium in crispness, juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple a medium amount, and especially like the appearance.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/48.html",
-    "href": "apples/48.html",
-    "title": "48",
+    "objectID": "apples/goldenrusset.html",
+    "href": "apples/goldenrusset.html",
+    "title": "Golden Russet",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in juiciness and low in sourness, with grassy, apple flavor. Consumers on average highly like this apple, but like the appearance less.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness, with medium sweetness, sourness, and juiciness, with grassy, apple, earthy, and honey flavor. Consumers on average like this apple a medium amount, but like the appearance less.\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "apples/scruffy.html",
+    "href": "apples/scruffy.html",
+    "title": "Scruffy",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn medium-high in crispness and juiciness, with medium sweetness and sourness. Consumers on average like this apple, especially the texture, but less-so the appearance.\n\n\n \n\nRelative size"
   },
   {
     "objectID": "about/da.html",
@@ -91,13 +91,6 @@
     "text": "Consumer testing (also known as hedonic testing) is a sensory technique where panelists are asked to taste food samples and rate them on a scale on how much they liked the sample.\nFor the apple consumer testing, we had regular consumers of apples come in and try slices of the apple selections. They rated appearance liking, flavor liking, texture liking, and overall liking on a 9-point scale. The 9-point scale ranged from 1, “dislike extremely,” to 9, “like extremely.”\n\n\n   Pictured: how an apple slice is presented to a consumer in the tasting booth."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Purpose This website is for sharing the findings of extensive food sensory testing conducted on 30+ apple selections. Our goal is to provide information on the taste, flavor, and texture attributes of these apples, focusing on varieties that hold particular relevance for Ohio growers and consumers. Unlike the more familiar apples commonly found in grocery stores, these selections include unique and lesser-known varieties. We aim to educate and inspire both growers and consumers, showcasing the diverse and flavorful apple options well-suited to growth Ohio.\nWhat is food sensory evaluation? Sensory evaluation uses humans as instruments to analyze the sensory properties of foods, drinks, and other consumer products. Using these techniques, we were able to evaluate the taste, aroma, flavor, and texture of the apples in this project. We were also able to gain insights into what aspects of these apples consumers like.\nFor more information about the food sensory testing, please select ‘Descriptive Analysis’ or ‘Consumer Testing’ in the drop-down menu under ‘About.’\nResearch team Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo-Ramirez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.\nThis project is sponsored by the Ohio Department of Agriculture (ODA) and the United States Department of Agriculture (USDA) and supported by the Midwest Apple Foundation (MAF)."
-  },
-  {
     "objectID": "apples/amarillo.html",
     "href": "apples/amarillo.html",
     "title": "Amarillo",
@@ -105,53 +98,18 @@
     "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in juiciness with medium crispness and sweetness and low sourness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/crunch-a-bunch.html",
-    "href": "apples/crunch-a-bunch.html",
-    "title": "Crunch-a-Bunch",
+    "objectID": "apples/48.html",
+    "href": "apples/48.html",
+    "title": "48",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness and juiciness, with medium sourness and sweetness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in juiciness and low in sourness, with grassy, apple flavor. Consumers on average highly like this apple, but like the appearance less.\n\n\n \n\nRelative size"
   },
   {
-    "objectID": "apples/gala.html",
-    "href": "apples/gala.html",
-    "title": "Gala",
+    "objectID": "apples/kindercrisp.html",
+    "href": "apples/kindercrisp.html",
+    "title": "Kindercrisp",
     "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium in crispness, juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple a medium amount, and especially like the appearance.\n\n\n \n\nRelative size"
-  },
-  {
-    "objectID": "apples/goldrush.html",
-    "href": "apples/goldrush.html",
-    "title": "GoldRush",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness, with medium juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
-  },
-  {
-    "objectID": "apples/ludacrisp.html",
-    "href": "apples/ludacrisp.html",
-    "title": "Ludacrisp",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in juiciness and crispness, and medium sweetness and sourness, with ripe apple, grassy, earthy flavor. Consumers on average like this apple, especially the texture.\n\n\n \n\nRelative size"
-  },
-  {
-    "objectID": "apples/pixiecrunch.html",
-    "href": "apples/pixiecrunch.html",
-    "title": "Pixie Crunch",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, and earthy flavor. Consumers on average like this apple, especially the texture.\n\n\n \n\nRelative size"
-  },
-  {
-    "objectID": "apples/premierhoneycrisp.html",
-    "href": "apples/premierhoneycrisp.html",
-    "title": "Premier Honeycrisp",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness and juiciness, medium sweetness and sourness, with apple, grassy, honey, earthy flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
-  },
-  {
-    "objectID": "apples/sansa.html",
-    "href": "apples/sansa.html",
-    "title": "Sansa",
-    "section": "",
-    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in sweetness, with medium juiciness, and low crispness and sourness, with ripe apple, honey, grassy, fruity, earthy flavor. Consumers on average like this apple a medium amount, and especially like the appearance.\n\n\n \n\nRelative size"
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in crispness, juiciness, and sweetness, with low sourness, with ripe apple, grassy, honey, and earthy flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
   },
   {
     "objectID": "apples/summerset.html",
@@ -161,10 +119,52 @@
     "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in juiciness, crispness, and medium sourness, with ripe apple, honey, grassy, earthy, and caramel flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
   },
   {
+    "objectID": "apples/ludacrisp.html",
+    "href": "apples/ludacrisp.html",
+    "title": "Ludacrisp",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in juiciness and crispness, and medium sweetness and sourness, with ripe apple, grassy, earthy flavor. Consumers on average like this apple, especially the texture.\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "apples/mdw20-100.html",
+    "href": "apples/mdw20-100.html",
+    "title": "MDW 20-100",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium-high in sweetness, juiciness, and crispness, and low in sourness, with ripe apple, honey, grassy, and floral flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "apples/goldrush.html",
+    "href": "apples/goldrush.html",
+    "title": "GoldRush",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple high in crispness, with medium juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple.\n\n\n \n\nRelative size"
+  },
+  {
     "objectID": "apples/zestar.html",
     "href": "apples/zestar.html",
     "title": "Zestar",
     "section": "",
     "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn apple medium in juiciness, sweetness, and sourness, low in crispness, with ripe apple, honey, grassy, warm spice, and earthy flavor. Consumers on average like this apple, especially the appearance, but less-so the texture.\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "apples/crimsoncrisp.html",
+    "href": "apples/crimsoncrisp.html",
+    "title": "Crimson Crisp",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\n\nAn apple high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, earthy flavor. Consumers on average highly like this apple.\n\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "apples/plumdelicious.html",
+    "href": "apples/plumdelicious.html",
+    "title": "Plum Delicious",
+    "section": "",
+    "text": "text description (coming from Diane)\n\n\n\n\n\n\nAn medium-high in crispness and sweetness, medium in juiciness and sourness, with ripe apple, earthy, honey, grassy, fruity flavor. Consumers on average highly like this apple.\n\n\n \n\nRelative size"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Discover Ohio’s Hidden Apple Gems",
+    "section": "",
+    "text": "The goal of this website is to share data collected at The Ohio State University on the traits of Ohio apples valuable to local growers.\nWhether you’re an apple grower seeking to diversify your orchard or a curious eater eager to explore new flavors, this resource highlights Ohio’s unique apple offerings.\nSelect ‘About’ at the top to learn more, or ‘Apples’ to choose an apple to learn more about."
   }
 ]
