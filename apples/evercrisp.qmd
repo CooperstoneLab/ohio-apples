@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+A cross of Honeycrisp x Fuji. Late season ripening. Released by the Midwest Apple Improvement Association.  Keeps crisp for months.
 :::
 
 ::: grid

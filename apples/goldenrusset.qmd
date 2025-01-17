@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+An old American variety with rich flavors. Russet skin finish.
 :::
 
 ::: grid

@@ -9,13 +9,13 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+Very pretty red apple. Ripens mid-season. Released from Purdue-Rutgers-Illinois breeding program.
 :::
 
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/CRIMSONC-crop.png)
+![](img/transparentapples/crimsonc-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center><center>An apple high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, earthy flavor. Consumers on average highly like this apple.</center></center>

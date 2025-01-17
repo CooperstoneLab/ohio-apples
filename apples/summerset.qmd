@@ -9,13 +9,13 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+A cross of Honeycrisp x Fuji. Early September apple. Released by Midwest Apple Improvement Association.
 :::
 
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/SUMMER-crop.png)
+![](img/transparentapples/summer-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple medium-high in juiciness, crispness, and medium sourness, with ripe apple, honey, grassy, earthy, and caramel flavor. Consumers on average like this apple.</center>

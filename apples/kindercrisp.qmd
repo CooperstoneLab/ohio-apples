@@ -9,13 +9,13 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+Ripens early season. Honeycrisp is one parent. Released by a private breeder in Minnesota.
 :::
 
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/KINDER-crop.png)
+![](img/transparentapples/kinder-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple medium-high in crispness, juiciness, and sweetness, with low sourness, with ripe apple, grassy, honey, and earthy flavor. Consumers on average like this apple.</center>

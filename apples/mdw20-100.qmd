@@ -9,13 +9,13 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+An attractive red apple that ripens mid-season. Released by the Midwest Apple Improvement Association.
 :::
 
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/MDW20100-crop.png)
+![](img/transparentapples/mdw20100-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple medium-high in sweetness, juiciness, and crispness, and low in sourness, with ripe apple, honey, grassy, and floral flavor. Consumers on average like this apple.</center>

@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+A cross of Honeycrisp x Fuji. Ripens early mid-season. Released by the Midwest Apple Improvement Association.
 :::
 
 ::: grid

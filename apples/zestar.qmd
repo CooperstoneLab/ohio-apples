@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+Early season apple. Released by the University of Minnesota.  
 :::
 
 ::: grid

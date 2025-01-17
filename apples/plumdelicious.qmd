@@ -9,13 +9,13 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+A purplish-blushed apple with interesting flavor combination.  Ripens late season. Excellent keeping. Released by Rutgers University.
 :::
 
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/PLUMDELICIOUS-crop.png)
+![](img/transparentapples/plumdelicious-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An medium-high in crispness and sweetness, medium in juiciness and sourness, with ripe apple, earthy, honey, grassy, fruity flavor. Consumers on average highly like this apple.</center>

@@ -9,7 +9,7 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text description (coming from Diane)
+An early season apple with interesting skin color and flavor.
 :::
 
 ::: grid
