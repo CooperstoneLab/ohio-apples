@@ -77,6 +77,20 @@
     "text": "Purpose This website is for sharing the findings of extensive food sensory testing conducted on 30+ apple selections. Our goal is to provide information on the taste, flavor, and texture attributes of these apples, focusing on varieties that hold particular relevance for Ohio growers and consumers. Unlike the more familiar apples commonly found in grocery stores, these selections include unique and lesser-known varieties. We aim to educate and inspire both growers and consumers, showcasing the diverse and flavorful apple options well-suited to growth Ohio.\nWhat is food sensory evaluation? Sensory evaluation uses humans as instruments to analyze the sensory properties of foods, drinks, and other consumer products. Using these techniques, we were able to evaluate the taste, aroma, flavor, and texture of the apples in this project. We were also able to gain insights into what aspects of these apples consumers like.\nFor more information about the food sensory testing, please select ‘Descriptive Analysis’ or ‘Consumer Testing’ in the drop-down menu under ‘About.’\nResearch team Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo-Ramirez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.\nThis project is sponsored by the Ohio Department of Agriculture (ODA) and the United States Department of Agriculture (USDA) and supported by the Midwest Apple Foundation (MAF)."
   },
   {
+    "objectID": "about/consumer.html",
+    "href": "about/consumer.html",
+    "title": "Consumer Testing",
+    "section": "",
+    "text": "Consumer testing (also known as hedonic testing) is a sensory technique where panelists are asked to taste food samples and rate them on a scale on how much they liked the sample.\nFor the apple consumer testing, we had regular consumers of apples come in and try slices of the apple selections. They rated appearance liking, flavor liking, texture liking, and overall liking on a 9-point scale. The 9-point scale ranged from 1, “dislike extremely,” to 9, “like extremely.”\n\n\n   Pictured: how an apple slice is presented to a consumer in the tasting booth."
+  },
+  {
+    "objectID": "about/da.html",
+    "href": "about/da.html",
+    "title": "Descriptive Analysis",
+    "section": "",
+    "text": "Descriptive analysis is a sensory technique where trained judges are used to collect a complete sensory profile of a product. The product is broken down into its individual taste, flavor, and texture attributes. In the case of apples, that includes traits like sweetness, honey flavor, and crispness.\nThe judges use physical references as guides to calibrate their taste to an intensity scale from 1-10. For example, to measure crispness, a low score (1) was referenced by a canned pear slice. A high score (10) was referenced by a fresh piece of celery.\nDescriptive analysis provides us with objective descriptions of the traits of the apples in this study.\n\n\n   Pictured: apple descriptive analysis taking place."
+  },
+  {
     "objectID": "apples/48.html",
     "href": "apples/48.html",
     "title": "48",
@@ -145,26 +159,5 @@
     "title": "Zestar",
     "section": "",
     "text": "A Minnesotan early season apple.\n\n\n\n\n\n\nPure apple flavor with grassy, honey notes and hints of earthiness and warm spice.\n\n\n\n\n\nRelative size"
-  },
-  {
-    "objectID": "about/da.html",
-    "href": "about/da.html",
-    "title": "Descriptive Analysis",
-    "section": "",
-    "text": "Descriptive analysis is a sensory technique where trained judges are used to collect a complete sensory profile of a product. The product is broken down into its individual taste, flavor, and texture attributes. In the case of apples, that includes traits like sweetness, honey flavor, and crispness.\nThe judges use physical references as guides to calibrate their taste to an intensity scale from 1-10. For example, to measure crispness, a low score (1) was referenced by a canned pear slice. A high score (10) was referenced by a fresh piece of celery.\nDescriptive analysis provides us with objective descriptions of the traits of the apples in this study.\n\n\n   Pictured: apple descriptive analysis taking place."
-  },
-  {
-    "objectID": "about/consumer.html",
-    "href": "about/consumer.html",
-    "title": "Consumer Testing",
-    "section": "",
-    "text": "Consumer testing (also known as hedonic testing) is a sensory technique where panelists are asked to taste food samples and rate them on a scale on how much they liked the sample.\nFor the apple consumer testing, we had regular consumers of apples come in and try slices of the apple selections. They rated appearance liking, flavor liking, texture liking, and overall liking on a 9-point scale. The 9-point scale ranged from 1, “dislike extremely,” to 9, “like extremely.”\n\n\n   Pictured: how an apple slice is presented to a consumer in the tasting booth."
-  },
-  {
-    "objectID": "docs/apples/Summerset.html",
-    "href": "docs/apples/Summerset.html",
-    "title": "Summerset",
-    "section": "",
-    "text": "An MAIA apple ready for picking early September.\n\n\n\n\n\n\nHoney, apple flavor with grassy notes and hints of earthiness, ripe apple, and caramel.\n\n\n\n\n\nRelative size"
   }
 ]

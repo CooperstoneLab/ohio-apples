@@ -25,7 +25,6 @@ format:
     font-size: 25px;
     background-color: white;
     color: black;
-    text-align: center;
     word-wrap: break-word; 
     border-radius: 10px;
  }
@@ -33,15 +32,15 @@ format:
 
 <body>
     <div class="table-container">
-<b>Purpose</b>
+<b>Purpose</b><br>
 This website is for sharing the findings of extensive food sensory testing conducted on 30+ apple selections. Our goal is to provide information on the taste, flavor, and texture attributes of these apples, focusing on varieties that hold particular relevance for Ohio growers and consumers. Unlike the more familiar apples commonly found in grocery stores, these selections include unique and lesser-known varieties. We aim to educate and inspire both growers and consumers, showcasing the diverse and flavorful apple options well-suited to growth Ohio.
 
-<b>What is food sensory evaluation?</b>
+<b>What is food sensory evaluation?</b><br>
 Sensory evaluation uses humans as instruments to analyze the sensory properties of foods, drinks, and other consumer products. Using these techniques, we were able to evaluate the taste, aroma, flavor, and texture of the apples in this project. We were also able to gain insights into what aspects of these apples consumers like.
 
 For more information about the food sensory testing, please select 'Descriptive Analysis' or 'Consumer Testing' in the drop-down menu under 'About.'
 
-<b>Research team</b>
+<b>Research team</b><br>
 Dr. Jessica Cooperstone, Dr. Diane Miller, Dr. Jonathan Fresnedo-Ramirez, Dr. Chris Simons, and hard-working graduate students (Lydia Balogh, MSc., and others) at The Ohio State University.
 
 This project is sponsored by the Ohio Department of Agriculture (ODA) and the United States Department of Agriculture (USDA) and supported by the Midwest Apple Foundation (MAF). 

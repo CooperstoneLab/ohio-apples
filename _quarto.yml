@@ -8,13 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - text: About
         menu:
+        - text: About
+          href: about.qmd
         - text: Descriptive Analysis
           href: about/da.qmd
         - text: Consumer Testing
-          href: about/consumer
+          href: about/consumer.qmd
       - text: Apples
         menu:
         - text: Amarillo
