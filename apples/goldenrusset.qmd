@@ -15,14 +15,14 @@ An old American variety with rich flavors. Russet skin finish.
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/GOLDENRUSSET-crop.png)
+![](img/transparentapples/goldenrusset-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in crispness, with medium sweetness, sourness, and juiciness, with grassy, apple, earthy, and honey flavor. Consumers on average like this apple a medium amount, but like the appearance less.</center>
 :::
 
 <br>
-![](img/GOLDENRUSSET-crop.jpg)
+![](img/goldenrusset-crop.jpg)
 <center>Relative size</center>
 
 :::

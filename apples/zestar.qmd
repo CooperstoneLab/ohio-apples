@@ -15,14 +15,14 @@ Early season apple. Released by the University of Minnesota.
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/ZESTAR-crop.png)
+![](img/transparentapples/zestar-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple medium in juiciness, sweetness, and sourness, low in crispness, with ripe apple, honey, grassy, warm spice, and earthy flavor. Consumers on average like this apple, especially the appearance, but less-so the texture.</center>
 :::
 
 <br>
-![](img/ZESTAR-crop.jpg)
+![](img/zestar-crop.jpg)
 <center>Relative size</center>
 
 :::

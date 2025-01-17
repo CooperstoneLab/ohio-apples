@@ -15,14 +15,14 @@ A cross of Honeycrisp x Fuji. Late mid-season apple. Released by the Midwest App
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/ROSALEE-crop.png)
+![](img/transparentapples/rosalee-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in juiciness and crispness, with medium-high sweetness, and medium sourness, with apple, grassy flavor. Consumers on average like this apple, especially the texture.</center>
 :::
 
 <br>
-![](img/ROSALEE-crop.jpg)
+![](img/rosalee-crop.jpg)
 <center>Relative size</center>
 
 :::

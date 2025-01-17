@@ -15,14 +15,14 @@ A late season crispy juicy yellow apple.
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/R4N8-crop.png)
+![](img/transparentapples/r4n8-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in juiciness and low in sourness, with grassy, apple flavor. Consumers on average highly like this apple, but like the appearance less.</center>
 :::
 
 <br>
-![](img/R4N8-crop.jpg)
+![](img/r4n8-crop.jpg)
 <center>Relative size</center>
 
 :::

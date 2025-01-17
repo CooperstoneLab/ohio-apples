@@ -15,14 +15,14 @@ An early season ripening strain of Honeycrisp. Discovered by a grower in Honeycr
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/PRHONEY-crop.png)
+![](img/transparentapples/prhoney-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in crispness and juiciness, medium sweetness and sourness, with apple, grassy, honey, earthy flavor. Consumers on average highly like this apple.</center>
 :::
 
 <br>
-![](img/PRHONEY-crop.jpg)
+![](img/prhoney-crop.jpg)
 <center>Relative size</center>
 
 :::

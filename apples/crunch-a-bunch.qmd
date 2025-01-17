@@ -15,14 +15,14 @@ text description (coming from Diane)
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/CRUNCHAB-crop.png)
+![](img/transparentapples/crunchab-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in crispness and juiciness, with medium sourness and sweetness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.</center>
 :::
 
 <br>
-![](img/CRUNCHAB-crop.jpg)
+![](img/crunchab-crop.jpg)
 <center>Relative size</center>
 
 :::

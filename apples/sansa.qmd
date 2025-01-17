@@ -15,14 +15,14 @@ An early season apple with interesting skin color and flavor.
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/SANSA-crop.png)
+![](img/transparentapples/sansa-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple medium-high in sweetness, with medium juiciness, and low crispness and sourness, with ripe apple, honey, grassy, fruity, earthy flavor. Consumers on average like this apple a medium amount, and especially like the appearance.</center>
 :::
 
 <br>
-![](img/SANSA-crop.jpg)
+![](img/sansa-crop.jpg)
 <center>Relative size</center>
 
 :::
@@ -31,7 +31,7 @@ An early season apple with interesting skin color and flavor.
 
 ![](img/websitefigs/Apple_Sansa.svg)
 
-
+<br>
 
 ![](img/flavfigs/flavor_plot_Sansa.svg)
 <br>
