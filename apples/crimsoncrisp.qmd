@@ -18,7 +18,7 @@ text description (coming from Diane)
 ![](img/transparentapples/CRIMSONC-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
-<center>An apple high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, earthy flavor. Consumers on average highly like this apple.</center>
+<center><center>An apple high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, earthy flavor. Consumers on average highly like this apple.</center></center>
 :::
 
 <br>
@@ -39,3 +39,4 @@ text description (coming from Diane)
 ![](img/likingfigs/Liking_Crimson Crisp.svg)
 :::
 :::
+
