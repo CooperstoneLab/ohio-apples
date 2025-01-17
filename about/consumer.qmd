@@ -1,0 +1,46 @@
+---
+title: "Consumer Testing"
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
+---
+
+<style>
+  body {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)),
+                      url(allapples.png);
+  background-position: bottom;
+  background-size: 100%;
+  background-repeat: repeat;
+  }
+
+  .table-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 20px;
+    width: 100%; 
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 23px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    word-wrap: break-word; 
+    border-radius: 10px;
+  }
+</style>
+
+ <div class="table-container"> 
+ <div>Consumer testing (also known as hedonic testing) is a sensory technique where panelists are asked to taste food samples and rate them on a scale on how much they liked the sample.
+ 
+For the apple consumer testing, we had regular consumers of apples come in and try slices of the apple selections. They rated appearance liking, flavor liking, texture liking, and overall liking on a 9-point scale. The 9-point scale ranged from 1, "dislike extremely," to 9, "like extremely."</div> 
+ 
+ <div>
+ <br><br>
+ ![](consumerphoto.png)
+<font size="3"> Pictured: how an apple slice is presented to a consumer in the tasting booth. </font>
+ </div> 
+ </div>

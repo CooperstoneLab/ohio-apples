@@ -10,6 +10,11 @@ website:
         text: Home
       - href: about.qmd
         text: About
+        menu:
+        - text: Descriptive Analysis
+          href: about/da.qmd
+        - text: Consumer Testing
+          href: about/consumer
       - text: Apples
         menu:
         - text: Amarillo
@@ -45,7 +50,7 @@ website:
         - text: Scruffy
           href: apples/scruffy.qmd
         - text: Summerset
-          href: apples/Summerset.qmd
+          href: apples/summerset.qmd
         - text: Sweet Maia
           href: apples/sweetmaia.qmd
         - text: Zestar

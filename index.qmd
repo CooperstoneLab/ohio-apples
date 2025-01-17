@@ -1,6 +1,6 @@
 
 ---
-title: "Welcome to the Cooperstone Lab Ohio Apples page!"
+title: "Discover Ohio's Hidden Apple Gems"
 format: html
 ---
 <style>
@@ -31,6 +31,8 @@ format: html
     
 The goal of this website is to share data collected at The Ohio State University on the traits of Ohio apples valuable to local growers.
 
-Select 'About' at the top to learn more, or 'Apples' and choose an apple to learn more about. 
+Whether you're an apple grower seeking to diversify your orchard or a curious eater eager to explore new flavors, this resource highlights Ohio's unique apple offerings.
+
+Select 'About' at the top to learn more, or 'Apples' to choose an apple to learn more about. 
 </div>
 </body>

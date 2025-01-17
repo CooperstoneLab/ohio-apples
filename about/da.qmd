@@ -1,0 +1,48 @@
+---
+title: "Descriptive Analysis"
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
+---
+
+<style>
+  body {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)),
+                      url(allapples.png);
+  background-position: bottom;
+  background-size: 100%;
+  background-repeat: repeat;
+  }
+
+  .table-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 20px;
+    width: 100%; 
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 23px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    word-wrap: break-word; 
+    border-radius: 10px;
+  }
+</style>
+
+ <div class="table-container"> 
+ <div>Descriptive analysis is a sensory technique where trained judges are used to collect a complete sensory profile of a product. The product is broken down into its individual taste, flavor, and texture attributes. In the case of apples, that includes traits like sweetness, honey flavor, and crispness.
+ 
+The judges use physical references as guides to calibrate their taste to an intensity scale from 1-10. For example, to measure crispness, a low score (1) was referenced by a canned pear slice. A high score (10) was referenced by a fresh piece of celery. 
+ 
+ Descriptive analysis provides us with objective descriptions of the traits of the apples in this study.</div> 
+ 
+ <div>
+ <br><br>
+ ![](daphotoblur.png)
+<font size="3"> Pictured: apple descriptive analysis taking place. </font>
+ </div> 
+ </div>

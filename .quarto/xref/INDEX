@@ -64,5 +64,11 @@
   },
   "docs/apples/Summerset.qmd": {
     "Summerset.html": "2100e977"
+  },
+  "about/da.qmd": {
+    "da.html": "ab377fdc"
+  },
+  "about/consumer.qmd": {
+    "consumer.html": "a8a5947f"
   }
 }
