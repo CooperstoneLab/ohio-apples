@@ -9,36 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-text
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
 ![](img/transparentapples/GOLDRUSH-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Grassy, apple</b></i> flavor.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in crispness, with medium juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple.</center>
 :::
 
+<br>
 ![](img/GOLDRUSH-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
-![](img/websitefigs/Apple_Gold Rush.svg)
+![](img/websitefigs/Apple_GoldRush.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Gold Rush.svg)
+<br>
 
+![](img/likingfigs/Liking_GoldRush.svg)
 :::
 :::
-
-
-  
-
-
   

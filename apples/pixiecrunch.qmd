@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A mid-September ripening apple developed by Purdue, Rutgers, and Illinois Universities.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/pix-crop.png)
+![](img/transparentapples/PIX-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>grassy</i> notes and hints of <i>earthiness</i> and <i>ripe apple.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium-high in crispness, medium in juiciness and sweetness, and low in sourness, with ripe apple, grassy, and earthy flavor. Consumers on average like this apple, especially the texture.</center>
 :::
 
-![](img/pix-crop.jpg)
+<br>
+![](img/PIX-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Pixie Crunch.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Pixie Crunch.svg)
+<br>
 
+![](img/likingfigs/Liking_Pixie Crunch.svg)
 :::
 :::
+  

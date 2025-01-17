@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A Minnesota apple that ripens in late August.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/kinder-crop.png)
+![](img/transparentapples/KINDER-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Ripe apple</b></i> flavor with <i>grassy</i> notes and hints of <i>honey</i> and <i>earthiness.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium-high in crispness, juiciness, and sweetness, with low sourness, with ripe apple, grassy, honey, and earthy flavor. Consumers on average like this apple.</center>
 :::
 
-![](img/kinder-crop.jpg)
+<br>
+![](img/KINDER-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Kindercrisp.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Kindercrisp.svg)
+<br>
 
+![](img/likingfigs/Liking_Kindercrisp.svg)
 :::
 :::
+  

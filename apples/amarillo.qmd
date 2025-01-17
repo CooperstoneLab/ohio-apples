@@ -9,33 +9,33 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A mid season apple.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
 ![](img/transparentapples/3-79-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Grassy, apple</b></i> flavor.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in juiciness with medium crispness and sweetness and low sourness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.</center>
 :::
 
+<br>
 ![](img/3-79-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Amarillo.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Amarillo.svg)
+<br>
 
+![](img/likingfigs/Liking_Amarillo.svg)
 :::
 :::
-
-
-  

@@ -30,10 +30,10 @@
 </defs>
 <g clip-path='url(#cpMTgxLjA2fDQ4OS4wNnw2My4yNXw0MTguMTE=)'>
 <rect x='181.06' y='63.25' width='308.00' height='354.86' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
-<rect x='195.06' y='329.39' width='232.75' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #440154;' />
-<rect x='195.06' y='244.90' width='190.75' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #31688E;' />
-<rect x='195.06' y='75.92' width='138.25' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDE725;' />
-<rect x='195.06' y='160.41' width='133.00' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #35B779;' />
+<rect x='195.06' y='329.39' width='79.54' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #440154;' />
+<rect x='195.06' y='244.90' width='181.36' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #31688E;' />
+<rect x='195.06' y='75.92' width='165.45' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FDE725;' />
+<rect x='195.06' y='160.41' width='97.04' height='76.04' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #35B779;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
 <polyline points='181.06,418.11 181.06,63.25 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
@@ -45,6 +45,7 @@
 <text x='195.06' y='448.74' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='44.03px' lengthAdjust='spacingAndGlyphs'>Low</text>
 <text x='335.06' y='448.74' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='85.35px' lengthAdjust='spacingAndGlyphs'>Medium</text>
 <text x='475.06' y='448.74' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='49.36px' lengthAdjust='spacingAndGlyphs'>High</text>
-<text x='335.06' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='170.09px' lengthAdjust='spacingAndGlyphs'>Gold Rush</text>
+<text x='335.06' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='178.96px' lengthAdjust='spacingAndGlyphs'>Trait Intensity</text>
+<text x='335.06' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='290.11px' lengthAdjust='spacingAndGlyphs'>Important Traits of</text>
 </g>
 </svg>

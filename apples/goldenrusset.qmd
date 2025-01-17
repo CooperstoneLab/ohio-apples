@@ -9,30 +9,33 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A late season apple.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/goldenrusset-crop.png)
+![](img/transparentapples/GOLDENRUSSET-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Grassy</b></i> flavor with <i>apple</i> notes and hints of <i>earthiness</i> and <i>honey.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in crispness, with medium sweetness, sourness, and juiciness, with grassy, apple, earthy, and honey flavor. Consumers on average like this apple a medium amount, but like the appearance less.</center>
 :::
 
-![](img/goldenrusset-crop.jpg)
+<br>
+![](img/GOLDENRUSSET-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Golden Russet.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Golden Russet.svg)
+<br>
 
+![](img/likingfigs/Liking_Golden Russet.svg)
 :::
 :::

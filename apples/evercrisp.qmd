@@ -9,30 +9,33 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A mid-October to mid-November MAIA cross between Honeycrisp and Fuji.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/evercrisp-crop.png)
+![](img/transparentapples/EVERCRISP-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple, grassy</b></i> flavor.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in crispness and juiciness, with medium sweetness and low sourness, with apple, flavor. Consumers on average highly like this apple.</center>
 :::
 
-![](img/evercrisp-crop.jpg)
+<br>
+![](img/EVERCRISP-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
-![](img/websitefigs/Apple_evercrisp.svg)
+![](img/websitefigs/Apple_Evercrisp.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Evercrisp.svg)
+<br>
 
+![](img/likingfigs/Liking_Evercrisp.svg)
 :::
 :::

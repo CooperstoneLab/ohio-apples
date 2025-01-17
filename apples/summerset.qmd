@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-An MAIA apple ready for picking early September.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/summer-crop.png)
+![](img/transparentapples/SUMMER-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Honey, apple</b></i> flavor with <i>grassy</i> notes and hints of <i>earthiness, ripe apple,</i> and <i>caramel.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium-high in juiciness, crispness, and medium sourness, with ripe apple, honey, grassy, earthy, and caramel flavor. Consumers on average like this apple.</center>
 :::
 
-![](img/summer-crop.jpg)
+<br>
+![](img/SUMMER-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Summerset.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Summerset.svg)
+<br>
 
+![](img/likingfigs/Liking_Summerset.svg)
 :::
 :::
+  

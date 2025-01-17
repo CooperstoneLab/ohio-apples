@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-An early-ripening Honeycrisp variety.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/prhoney-crop.png)
+![](img/transparentapples/PRHONEY-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>grassy</i> notes and hints of <i>earthiness</i> and <i>ripe apple.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in crispness and juiciness, medium sweetness and sourness, with apple, grassy, honey, earthy flavor. Consumers on average highly like this apple.</center>
 :::
 
-![](img/prhoney-crop.jpg)
+<br>
+![](img/PRHONEY-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Premier Honeycrisp.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Premier Honeycrisp.svg)
+<br>
 
+![](img/likingfigs/Liking_Premier Honeycrisp.svg)
 :::
 :::
+  

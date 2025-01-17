@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A mid-season apple
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/mdw20100-crop.png)
+![](img/transparentapples/MDW20100-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>floral, grassy,</i> and <i>honey</i> notes.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium-high in sweetness, juiciness, and crispness, and low in sourness, with ripe apple, honey, grassy, and floral flavor. Consumers on average like this apple.</center>
 :::
 
+<br>
 ![](img/MDW20100-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_MDW 20-100.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_MDW 20-100.svg)
+<br>
 
+![](img/likingfigs/Liking_MDW 20-100.svg)
 :::
 :::
+  

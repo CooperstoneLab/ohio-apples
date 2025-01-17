@@ -9,30 +9,33 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-An apple ripe in mid-September.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/crunchab-crop.png)
+![](img/transparentapples/CRUNCHAB-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple, grassy</b></i> flavor.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in crispness and juiciness, with medium sourness and sweetness, with grassy, apple flavor. Consumers on average like this apple, especially its texture.</center>
 :::
 
-![](img/crunchab-crop.jpg)
+<br>
+![](img/CRUNCHAB-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Crunch-a-Bunch.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Crunch-a-Bunch.svg)
+<br>
 
+![](img/likingfigs/Liking_Crunch-a-Bunch.svg)
 :::
 :::

@@ -30,6 +30,8 @@ website:
           href: apples/goldrush.qmd
         - text: Golden Russet
           href: apples/goldenrusset.qmd
+        - text: Gala
+          href: apples/gala.qmd
         - text: Kindercrisp
           href: apples/kindercrisp.qmd
         - text: Ludacrisp

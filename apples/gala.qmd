@@ -1,0 +1,42 @@
+---
+title: "Gala"
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
+---
+
+:::{style="font-size: x-large;"}
+text description (coming from Diane)
+:::
+
+::: grid
+::: g-col-4
+
+![](img/transparentapples/GALA-crop.png)
+
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium in crispness, juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple a medium amount, and especially like the appearance.</center>
+:::
+
+<br>
+![](img/GALACTRL-crop.jpg)
+<center>Relative size</center>
+
+:::
+
+::: g-col-6
+
+![](img/websitefigs/Apple_Gala.svg)
+
+
+
+![](img/flavfigs/flavor_plot_Gala.svg)
+<br>
+
+![](img/likingfigs/Liking_Gala.svg)
+:::
+:::
+  

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='504.00pt' height='504.00pt' viewBox='0 0 504.00 504.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='528.00pt' height='325.71pt' viewBox='0 0 528.00 325.71'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -16,34 +16,34 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA='>
-    <rect x='0.00' y='0.00' width='504.00' height='504.00' />
+  <clipPath id='cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE='>
+    <rect x='0.00' y='0.00' width='528.00' height='325.71' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.000000000000064' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g clip-path='url(#cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE=)'>
+<rect x='0.00' y='0.00' width='528.00' height='325.71' style='stroke-width: 2.42; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTMzLjA0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
-    <rect x='133.04' y='102.13' width='356.02' height='283.58' />
+  <clipPath id='cpMTEwLjg3fDUxNS41NXw4NS4xMHwyMjcuMTM='>
+    <rect x='110.87' y='85.10' width='404.68' height='142.03' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTMzLjA0fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
-<rect x='133.04' y='102.13' width='356.02' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
-<rect x='149.22' y='137.57' width='129.46' height='212.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<g clip-path='url(#cpMTEwLjg3fDUxNS41NXw4NS4xMHwyMjcuMTM=)'>
+<rect x='110.87' y='85.10' width='404.68' height='142.03' style='stroke-width: 2.42; stroke: none; fill: #FFFFFF;' />
+<rect x='129.26' y='102.85' width='147.16' height='106.52' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
 </g>
-<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='133.04,385.71 133.04,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
-<text x='119.59' y='252.51' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='69.38px' lengthAdjust='spacingAndGlyphs'>Honey</text>
-<polyline points='133.04,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
-<text x='149.22' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='230.13' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='311.05' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='391.96' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='472.87' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='311.05' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
-<text x='311.05' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
-<text x='311.05' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='252.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
-<text x='311.05' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='234.09px' lengthAdjust='spacingAndGlyphs'>KGDW 17-242</text>
+<g clip-path='url(#cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE=)'>
+<polyline points='110.87,227.13 110.87,85.10 ' style='stroke-width: 2.42; stroke-linecap: butt;' />
+<text x='99.66' y='163.28' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='57.82px' lengthAdjust='spacingAndGlyphs'>Honey</text>
+<polyline points='110.87,227.13 515.55,227.13 ' style='stroke-width: 2.42; stroke-linecap: butt;' />
+<text x='129.26' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='11.12px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='221.23' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='313.21' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='405.18' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='497.15' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.37px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='313.21' y='281.00' text-anchor='middle' style='font-size: 25.00px; font-family: "Arial";' textLength='242.73px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='313.21' y='308.00' text-anchor='middle' style='font-size: 25.00px; font-family: "Arial";' textLength='236.21px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='313.21' y='33.93' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='210.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
+<text x='313.21' y='66.33' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='195.07px' lengthAdjust='spacingAndGlyphs'>KGDW 17-242</text>
 </g>
 </svg>

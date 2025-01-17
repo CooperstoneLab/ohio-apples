@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A mid-season Honeycrisp x Fuji cross from MAIA.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/rosalee-crop.png)
+![](img/transparentapples/ROSALEE-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>grassy</i> notes.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in juiciness and crispness, with medium-high sweetness, and medium sourness, with apple, grassy flavor. Consumers on average like this apple, especially the texture.</center>
 :::
 
-![](img/rosalee-crop.jpg)
+<br>
+![](img/ROSALEE-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Rosalee.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Rosalee.svg)
+<br>
 
+![](img/likingfigs/Liking_Rosalee.svg)
 :::
 :::
+  

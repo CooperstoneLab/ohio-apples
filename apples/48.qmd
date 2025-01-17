@@ -9,31 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A late-season Eckert Swiss apple.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/r4n8-crop.png)
+![](img/transparentapples/R4N8-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple, grassy</b></i> flavor.</center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple high in juiciness and low in sourness, with grassy, apple flavor. Consumers on average highly like this apple, but like the appearance less.</center>
 :::
 
-![](img/r4n8-crop.jpg)
+<br>
+![](img/R4N8-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_48.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_48.svg)
+<br>
 
+![](img/likingfigs/Liking_48.svg)
 :::
 :::
 

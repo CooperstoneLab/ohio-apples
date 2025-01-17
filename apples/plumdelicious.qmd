@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A late season apple.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/plumdelicious-crop.png)
+![](img/transparentapples/PLUMDELICIOUS-crop.png)
 
-:::{style="font-size: x-large;"}
-<center><i><b>Apple</b></i> flavor with <i>earthy, ripe apple</i> notes and hints of <i>honey, grassiness,</i> and <i>fruitiness.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An medium-high in crispness and sweetness, medium in juiciness and sourness, with ripe apple, earthy, honey, grassy, fruity flavor. Consumers on average highly like this apple.</center>
 :::
 
-![](img/plumdelicious-crop.jpg)
+<br>
+![](img/PLUMDELICIOUS-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Plum Delicious.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Plum Delicious.svg)
+<br>
 
+![](img/likingfigs/Liking_Plum Delicious.svg)
 :::
 :::
+  

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='504.00pt' height='504.00pt' viewBox='0 0 504.00 504.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='528.00pt' height='325.71pt' viewBox='0 0 528.00 325.71'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -16,48 +16,48 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA='>
-    <rect x='0.00' y='0.00' width='504.00' height='504.00' />
+  <clipPath id='cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE='>
+    <rect x='0.00' y='0.00' width='528.00' height='325.71' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='0.00' width='504.00' height='504.00' style='stroke-width: 2.91; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g clip-path='url(#cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE=)'>
+<rect x='0.00' y='0.00' width='528.00' height='325.71' style='stroke-width: 2.42; stroke: #FFFFFF; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTM5LjY4fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx'>
-    <rect x='139.68' y='102.13' width='349.38' height='283.58' />
+  <clipPath id='cpMTE2LjQwfDUxNS41NXw4NS4xMHwyMjcuMTM='>
+    <rect x='116.40' y='85.10' width='399.15' height='142.03' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTM5LjY4fDQ4OS4wNnwxMDIuMTN8Mzg1Ljcx)'>
-<rect x='139.68' y='102.13' width='349.38' height='283.58' style='stroke-width: 2.91; stroke: none; fill: #FFFFFF;' />
-<rect x='155.56' y='337.68' width='231.00' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
-<rect x='155.56' y='337.68' width='231.00' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
-<rect x='155.56' y='108.99' width='173.25' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3288BD;' />
-<rect x='155.56' y='200.46' width='144.37' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6F598;' />
-<rect x='155.56' y='200.46' width='144.37' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6F598;' />
-<rect x='155.56' y='154.73' width='144.37' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #99D594;' />
-<rect x='155.56' y='154.73' width='115.50' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #99D594;' />
-<rect x='155.56' y='291.94' width='115.50' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<rect x='155.56' y='246.20' width='115.50' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FEE08B;' />
-<rect x='155.56' y='108.99' width='115.50' height='41.17' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3288BD;' />
+<g clip-path='url(#cpMTE2LjQwfDUxNS41NXw4NS4xMHwyMjcuMTM=)'>
+<rect x='116.40' y='85.10' width='399.15' height='142.03' style='stroke-width: 2.42; stroke: none; fill: #FFFFFF;' />
+<rect x='134.54' y='203.08' width='263.90' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
+<rect x='134.54' y='203.08' width='263.90' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
+<rect x='134.54' y='88.53' width='197.93' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3288BD;' />
+<rect x='134.54' y='134.35' width='164.94' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6F598;' />
+<rect x='134.54' y='134.35' width='164.94' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6F598;' />
+<rect x='134.54' y='111.44' width='164.94' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #99D594;' />
+<rect x='134.54' y='111.44' width='131.95' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #99D594;' />
+<rect x='134.54' y='180.17' width='131.95' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<rect x='134.54' y='157.26' width='131.95' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FEE08B;' />
+<rect x='134.54' y='88.53' width='131.95' height='20.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3288BD;' />
 </g>
-<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHw1MDQuMDA=)'>
-<polyline points='139.68,385.71 139.68,102.13 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
-<text x='126.23' y='366.85' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='61.38px' lengthAdjust='spacingAndGlyphs'>Apple</text>
-<text x='126.23' y='321.12' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='69.36px' lengthAdjust='spacingAndGlyphs'>Earthy</text>
-<text x='126.23' y='275.38' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='60.00px' lengthAdjust='spacingAndGlyphs'>Fruity</text>
-<text x='126.23' y='229.64' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='76.02px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
-<text x='126.23' y='183.90' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='69.38px' lengthAdjust='spacingAndGlyphs'>Honey</text>
-<text x='126.23' y='138.16' text-anchor='end' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='49.36px' lengthAdjust='spacingAndGlyphs'>Ripe</text>
-<polyline points='139.68,385.71 489.06,385.71 ' style='stroke-width: 2.91; stroke-linecap: butt;' />
-<text x='155.56' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='234.96' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='314.37' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='393.77' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='473.18' y='416.34' text-anchor='middle' style='font-size: 24.00px;fill: #4D4D4D; font-family: "Arial";' textLength='40.05px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='314.37' y='450.34' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='291.30px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
-<text x='314.37' y='482.74' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='283.47px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
-<text x='314.37' y='40.72' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='252.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
-<text x='314.37' y='79.60' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='102.08px' lengthAdjust='spacingAndGlyphs'>Sansa</text>
+<g clip-path='url(#cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE=)'>
+<polyline points='116.40,227.13 116.40,85.10 ' style='stroke-width: 2.42; stroke-linecap: butt;' />
+<text x='105.19' y='220.55' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='51.16px' lengthAdjust='spacingAndGlyphs'>Apple</text>
+<text x='105.19' y='197.64' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='57.81px' lengthAdjust='spacingAndGlyphs'>Earthy</text>
+<text x='105.19' y='174.73' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.00px' lengthAdjust='spacingAndGlyphs'>Fruity</text>
+<text x='105.19' y='151.82' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='63.35px' lengthAdjust='spacingAndGlyphs'>Grassy</text>
+<text x='105.19' y='128.91' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='57.82px' lengthAdjust='spacingAndGlyphs'>Honey</text>
+<text x='105.19' y='106.00' text-anchor='end' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='41.13px' lengthAdjust='spacingAndGlyphs'>Ripe</text>
+<polyline points='116.40,227.13 515.55,227.13 ' style='stroke-width: 2.42; stroke-linecap: butt;' />
+<text x='134.54' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='11.12px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='225.26' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='315.97' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='406.69' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='497.40' y='252.66' text-anchor='middle' style='font-size: 20.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.37px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='315.97' y='281.00' text-anchor='middle' style='font-size: 25.00px; font-family: "Arial";' textLength='242.73px' lengthAdjust='spacingAndGlyphs'>Percentage of Tasters</text>
+<text x='315.97' y='308.00' text-anchor='middle' style='font-size: 25.00px; font-family: "Arial";' textLength='236.21px' lengthAdjust='spacingAndGlyphs'>Who Identified Flavor</text>
+<text x='315.97' y='33.93' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='210.09px' lengthAdjust='spacingAndGlyphs'>Flavor Profile of</text>
+<text x='315.97' y='66.33' text-anchor='middle' style='font-size: 30.00px; font-family: "Arial";' textLength='85.06px' lengthAdjust='spacingAndGlyphs'>Sansa</text>
 </g>
 </svg>

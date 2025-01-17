@@ -9,30 +9,34 @@ format:
 ---
 
 :::{style="font-size: x-large;"}
-A Minnesotan early season apple.
+text description (coming from Diane)
 :::
 
 ::: grid
-::: g-col-5
+::: g-col-4
 
-![](img/transparentapples/zestar-crop.png)
+![](img/transparentapples/ZESTAR-crop.png)
 
-:::{style="font-size: x-large;"}
-<center>Pure <i><b>apple</b></i> flavor with <i>grassy, honey</i> notes and hints of <i>earthiness</i> and <i>warm spice.</i></center><br>
+:::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
+<center>An apple medium in juiciness, sweetness, and sourness, low in crispness, with ripe apple, honey, grassy, warm spice, and earthy flavor. Consumers on average like this apple, especially the appearance, but less-so the texture.</center>
 :::
 
-![](img/zestar-crop.jpg)
+<br>
+![](img/ZESTAR-crop.jpg)
 <center>Relative size</center>
 
 :::
 
-::: g-col-5
+::: g-col-6
 
 ![](img/websitefigs/Apple_Zestar.svg)
 
-<br><br><br>
+
 
 ![](img/flavfigs/flavor_plot_Zestar.svg)
+<br>
 
+![](img/likingfigs/Liking_Zestar.svg)
 :::
 :::
+  
