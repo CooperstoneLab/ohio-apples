@@ -15,14 +15,14 @@ Apple that is full of flavors. Late season ripening. Released from Purdue-Rutger
 ::: grid
 ::: g-col-4
 
-![](img/transparentapples/goldrush-crop.png)
+![](img/transparentapples/GOLDRUSH-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
 <center>An apple high in crispness, with medium juiciness, sweetness, and sourness, with grassy, apple flavor. Consumers on average like this apple.</center>
 :::
 
 <br>
-![](img/goldrush-crop.jpg)
+![](img/GOLDRUSH-crop.jpg)
 <center>Relative size</center>
 
 :::

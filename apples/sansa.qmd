@@ -29,11 +29,11 @@ An early season apple with interesting skin color and flavor.
 
 ::: g-col-6
 
-![](img/websitefigs/Apple_Sansa.svg)
+![](img/websitefigs/APPLE_SANSA.svg)
 
 <br>
 
-![](img/flavfigs/flavor_plot_Sansa.svg)
+![](img/flavfigs/FLAVOR_PLOT_SANSA.svg)
 <br>
 
 ![](img/likingfigs/Liking_Sansa.svg)
