@@ -30,10 +30,10 @@
 </defs>
 <g clip-path='url(#cpMTE2LjQwfDUxNS41NXw4NS4xMHwyMjcuMTM=)'>
 <rect x='116.40' y='85.10' width='399.15' height='142.03' style='stroke-width: 2.42; stroke: none; fill: #FFFFFF;' />
-<rect x='134.54' y='94.78' width='326.58' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFBF;' />
-<rect x='134.54' y='159.34' width='290.29' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
-<rect x='134.54' y='94.78' width='217.72' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFBF;' />
-<rect x='134.54' y='159.34' width='181.43' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FC8D59;' />
+<rect x='134.54' y='94.78' width='326.58' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #ABDDA4;' />
+<rect x='134.54' y='159.34' width='290.29' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
+<rect x='134.54' y='94.78' width='217.72' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #ABDDA4;' />
+<rect x='134.54' y='159.34' width='181.43' height='58.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D53E4F;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1MjguMDB8MC4wMHwzMjUuNzE=)'>
 <polyline points='116.40,227.13 116.40,85.10 ' style='stroke-width: 2.42; stroke-linecap: butt;' />
