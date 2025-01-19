@@ -38,7 +38,9 @@ format:
  
 The judges use physical references as guides to calibrate their taste to an intensity scale from 1-10. For example, to measure crispness, a low score (1) was referenced by a canned pear slice. A high score (10) was referenced by a fresh piece of celery. 
  
- Descriptive analysis provides us with objective descriptions of the traits of the apples in this study.</div> 
+ Descriptive analysis provides us with objective descriptions of the traits of the apples in this study.
+ 
+Our descriptive analysis panel was also asked to identify flavors using a 'check-all-that-apply' model. The flavors all corresponded to references, but were measured on presence rather than overall intensity. For example, 'apple' flavor was compared to pressed apple cider, while 'grassy' flavor was compared to the aroma of fresh-cut grass.</div> 
  
  <div>
  <br><br>
