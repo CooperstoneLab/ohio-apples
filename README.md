@@ -1,4 +1,4 @@
-# Undestanding taste and flavor Ohio apples
+# Understanding taste and flavor Ohio apples
 
 The goal of this website is to share data collected at The Ohio State University on the traits of Ohio apples valuable to local growers. Whether you’re an apple grower seeking to diversify your orchard or a curious eater eager to explore new flavors, this resource highlights Ohio’s unique apple offerings.
 
