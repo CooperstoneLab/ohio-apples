@@ -60,7 +60,9 @@ website:
           href: apples/sweetmaia.qmd
         - text: Zestar
           href: apples/zestar.qmd
-
+        - text: All apples
+          href: apples/allapples/allapples.qmd
+          
   # footer
   page-footer:
     border: true

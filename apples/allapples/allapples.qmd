@@ -1,0 +1,23 @@
+---
+title: "All Apples"
+format:
+  html: 
+    grid:
+      sidebar-width: 50px
+      margin-width: 50px
+      gutter-width: 1.5rem
+---
+
+:::{style="font-size: x-large;"}
+See how the apples compare against each other!
+:::
+
+![](overallall.svg)
+<br>
+Note that even apples that trend towards lower liking still have some consumers ranking it in the high range. Everyone has different tastes, some of these lower-ranked apples may fit a niche taste that some consumers really value!
+<br> <br>
+![](overalltraits.svg)
+
+<br>
+
+

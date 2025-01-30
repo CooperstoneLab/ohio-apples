@@ -18,7 +18,7 @@ Imperfect skin color and appearance (looks 'Scruffy') but a dense, crispy, juicy
 ![](img/transparentapples/scruff-crop.png)
 
 :::{style="font-size: large; border: 2px ridge Gainsboro; padding: 10px; border-radius: 5px;"}
-<center>An medium-high in crispness and juiciness, with medium sweetness and sourness. Consumers on average like this apple, especially the texture, but less-so the appearance.</center>
+<center>Medium-high in crispness and juiciness, with medium sweetness and sourness. Consumers on average like this apple, especially the texture, but less-so the appearance.</center>
 :::
 
 <br>
